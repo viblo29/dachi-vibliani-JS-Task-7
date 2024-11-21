@@ -10,7 +10,7 @@ for (let index = 0; index < words.length; index++) {
 }
 console.log(words.join());
 
-let sentence1 = `nikas gaumarjos, rogor xar?`;
+let sentence1 = `salami batono nika, rogor brdzandebit?`;
 let words1 = sentence1.split(` `);
 let i = 0;
 let letterA = 0;
